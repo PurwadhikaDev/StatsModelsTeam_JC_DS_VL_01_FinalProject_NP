@@ -5,9 +5,9 @@
 
 ### Nama Kelompok :
     
-+ [Nina Aulia](https://www.linkedin.com/in/nina-aulia-13871a202/) ninaaulia6652@gmail.com
-+ [Hasbi Abiyadi](https://www.linkedin.com/in/hasbi-abiyadi-5a0bb518a) evendyucup@gmail.com
-+ [Ari Styabudi](https://www.linkedin.com/in/ari-styabudi-atmaja) styabudiatmaja@gmail.com 
++ [Nina Aulia](https://www.linkedin.com/in/nina-aulia-13871a202/) `ninaaulia6652@gmail.com`
++ [Hasbi Abiyadi](https://www.linkedin.com/in/hasbi-abiyadi-5a0bb518a) `evendyucup@gmail.com`
++ [Ari Styabudi](https://www.linkedin.com/in/ari-styabudi-atmaja) `styabudiatmaja@gmail.com`
         
       
 ### Business Problem
